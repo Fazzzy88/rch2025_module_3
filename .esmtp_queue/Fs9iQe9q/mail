@@ -1,0 +1,25 @@
+Date: Mon, 03 Mar 2025 16:46:34 +0300
+To: root@localhost
+Subject: [AFICK] Daily report for vm.novalocal
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+# Output of the daily afick run:
+# Afick (3.8.0) init at 2025/03/03 16:45:01 with options (/etc/afick.conf):
+# archive:=/var/lib/afick/archive
+# database:=/var/lib/afick/afick
+# exclude_suffix:=log LOG html htm HTM txt TXT xml hlp pod chm tmp old bak fon ttf TTF bmp BMP jpg JPG gif png ico wav WAV mp3 avi pyc
+# history:=/var/lib/afick/history
+# max_checksum_size:=10000000
+# running_files:=1
+# timing:=1
+# dbm:=Storable
+# #################################################################
+# MD5 hash of /var/lib/afick/afick => HPY3uPBNkYZzNoyImsYpSA
+
+# Hash database created successfully. 51324 files entered.
+# user time : 20.28; system time : 5.35; real time : 93
+# Errors produced:
+WARNING: (update) no database found : change action to init

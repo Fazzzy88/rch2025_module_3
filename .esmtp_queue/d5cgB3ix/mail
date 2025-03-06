@@ -1,0 +1,5 @@
+Subject: Output from your job        1
+To: root
+
+ошибка: can't create транзакция lock on /usr/lib/sysimage/rpm/.rpm.lock (Ресурс временно недоступен)
+ошибка: /etc/pki/rpm-gpg/RPM-GPG-KEY-R7-OFFICE.public: key 1 import failed.
