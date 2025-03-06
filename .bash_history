@@ -140,3 +140,25 @@ cp /home/redos/id_rsa .ssh/
 ls
 vim /etc/ssh/sshd_config
 systemctl restart sshd
+ls
+git init
+git commit -m "fist commit"
+git add .
+git add *
+git commit -m "fist commit"
+git branch -M main
+git remoet add origin https://gtithub.com/Fazzzy88/rch2025_module_3.git
+git remote add origin https://gtithub.com/Fazzzy88/rch2025_module_3.git
+git push -u origin main
+git remote add origin https://github.com/Fazzzy88/rch2025_module_3.git
+git remote remove origin main
+git remote remove origin 
+git remote add origin https://github.com/Fazzzy88/rch2025_module_3.git
+git push -u origin main
+ssh -T git@github
+ssh -T git@github.com
+ssh-keygen -t rsa -C "ahelp@bk.ru"
+mv .ssh/id_rsa .ssh/superadmin
+ssh-keygen -t rsa -C "ahelp@bk.ru"
+cd .ssh/
+ls

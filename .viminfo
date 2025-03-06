@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1741187958,,"wq"
+|2,0,1741238569,,"wq"
 :Wq
 |2,0,1741179424,,"Wq"
 :w
@@ -84,36 +84,82 @@
 |3,0,36,0,1,0,1741185807,"P"
 
 # File marks:
-'0  50  0  ~/lb.tf
-|4,48,50,0,1741187958,"~/lb.tf"
-'1  118  0  ~/vm.tf
-|4,49,118,0,1741186801,"~/vm.tf"
-'2  1  0  ~/vm.tf
-|4,50,1,0,1741186752,"~/vm.tf"
-'3  1  0  ~/vm.tf
-|4,51,1,0,1741186752,"~/vm.tf"
-'4  44  23  /etc/ssh/sshd_config
-|4,52,44,23,1741186464,"/etc/ssh/sshd_config"
-'5  64  0  /etc/ssh/sshd_config
-|4,53,64,0,1741185816,"/etc/ssh/sshd_config"
-'6  65  0  /etc/ssh/sshd_config
-|4,54,65,0,1741185816,"/etc/ssh/sshd_config"
-'7  1  404  ~/public
-|4,55,1,404,1741182468,"~/public"
-'8  41  2  ~/vm.tf
-|4,56,41,2,1741182459,"~/vm.tf"
-'9  41  2  ~/vm.tf
-|4,57,41,2,1741182459,"~/vm.tf"
+'0  1  0  ~/.ssh/id_rsa.pub
+|4,48,1,0,1741238569,"~/.ssh/id_rsa.pub"
+'1  38  0  ~/.ssh/id_rsa
+|4,49,38,0,1741238546,"~/.ssh/id_rsa"
+'2  50  0  ~/lb.tf
+|4,50,50,0,1741187958,"~/lb.tf"
+'3  118  0  ~/vm.tf
+|4,51,118,0,1741186801,"~/vm.tf"
+'4  1  0  ~/vm.tf
+|4,52,1,0,1741186752,"~/vm.tf"
+'5  1  0  ~/vm.tf
+|4,53,1,0,1741186752,"~/vm.tf"
+'6  44  23  /etc/ssh/sshd_config
+|4,54,44,23,1741186464,"/etc/ssh/sshd_config"
+'7  64  0  /etc/ssh/sshd_config
+|4,55,64,0,1741185816,"/etc/ssh/sshd_config"
+'8  65  0  /etc/ssh/sshd_config
+|4,56,65,0,1741185816,"/etc/ssh/sshd_config"
+'9  1  404  ~/public
+|4,57,1,404,1741182468,"~/public"
 
 # Jumplist (newest first):
+-'  1  0  ~/.ssh/id_rsa.pub
+|4,39,1,0,1741238569,"~/.ssh/id_rsa.pub"
+-'  38  0  ~/.ssh/id_rsa
+|4,39,38,0,1741238546,"~/.ssh/id_rsa"
+-'  38  0  ~/.ssh/id_rsa
+|4,39,38,0,1741238546,"~/.ssh/id_rsa"
+-'  1  0  ~/.ssh/id_rsa
+|4,39,1,0,1741238471,"~/.ssh/id_rsa"
+-'  1  0  ~/.ssh/id_rsa
+|4,39,1,0,1741238471,"~/.ssh/id_rsa"
 -'  50  0  ~/lb.tf
 |4,39,50,0,1741187958,"~/lb.tf"
+-'  50  0  ~/lb.tf
+|4,39,50,0,1741187958,"~/lb.tf"
+-'  50  0  ~/lb.tf
+|4,39,50,0,1741187958,"~/lb.tf"
+-'  50  0  ~/lb.tf
+|4,39,50,0,1741187958,"~/lb.tf"
+-'  70  20  ~/lb.tf
+|4,39,70,20,1741187843,"~/lb.tf"
+-'  70  20  ~/lb.tf
+|4,39,70,20,1741187843,"~/lb.tf"
+-'  70  20  ~/lb.tf
+|4,39,70,20,1741187843,"~/lb.tf"
 -'  70  20  ~/lb.tf
 |4,39,70,20,1741187843,"~/lb.tf"
 -'  118  0  ~/vm.tf
 |4,39,118,0,1741186801,"~/vm.tf"
 -'  118  0  ~/vm.tf
 |4,39,118,0,1741186801,"~/vm.tf"
+-'  118  0  ~/vm.tf
+|4,39,118,0,1741186801,"~/vm.tf"
+-'  118  0  ~/vm.tf
+|4,39,118,0,1741186801,"~/vm.tf"
+-'  118  0  ~/vm.tf
+|4,39,118,0,1741186801,"~/vm.tf"
+-'  118  0  ~/vm.tf
+|4,39,118,0,1741186801,"~/vm.tf"
+-'  118  0  ~/vm.tf
+|4,39,118,0,1741186801,"~/vm.tf"
+-'  118  0  ~/vm.tf
+|4,39,118,0,1741186801,"~/vm.tf"
+-'  41  2  ~/vm.tf
+|4,39,41,2,1741186764,"~/vm.tf"
+-'  41  2  ~/vm.tf
+|4,39,41,2,1741186764,"~/vm.tf"
+-'  41  2  ~/vm.tf
+|4,39,41,2,1741186764,"~/vm.tf"
+-'  41  2  ~/vm.tf
+|4,39,41,2,1741186764,"~/vm.tf"
+-'  41  2  ~/vm.tf
+|4,39,41,2,1741186764,"~/vm.tf"
+-'  41  2  ~/vm.tf
+|4,39,41,2,1741186764,"~/vm.tf"
 -'  41  2  ~/vm.tf
 |4,39,41,2,1741186764,"~/vm.tf"
 -'  41  2  ~/vm.tf
@@ -126,6 +172,78 @@
 |4,39,1,0,1741186752,"~/vm.tf"
 -'  1  0  ~/vm.tf
 |4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  1  0  ~/vm.tf
+|4,39,1,0,1741186752,"~/vm.tf"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
+-'  44  23  /etc/ssh/sshd_config
+|4,39,44,23,1741186464,"/etc/ssh/sshd_config"
 -'  44  23  /etc/ssh/sshd_config
 |4,39,44,23,1741186464,"/etc/ssh/sshd_config"
 -'  44  23  /etc/ssh/sshd_config
@@ -158,156 +276,46 @@
 |4,39,64,0,1741186446,"/etc/ssh/sshd_config"
 -'  64  0  /etc/ssh/sshd_config
 |4,39,64,0,1741186446,"/etc/ssh/sshd_config"
--'  65  0  /etc/ssh/sshd_config
-|4,39,65,0,1741185816,"/etc/ssh/sshd_config"
--'  65  0  /etc/ssh/sshd_config
-|4,39,65,0,1741185816,"/etc/ssh/sshd_config"
--'  65  0  /etc/ssh/sshd_config
-|4,39,65,0,1741185816,"/etc/ssh/sshd_config"
--'  65  0  /etc/ssh/sshd_config
-|4,39,65,0,1741185816,"/etc/ssh/sshd_config"
--'  65  0  /etc/ssh/sshd_config
-|4,39,65,0,1741185816,"/etc/ssh/sshd_config"
--'  65  0  /etc/ssh/sshd_config
-|4,39,65,0,1741185816,"/etc/ssh/sshd_config"
--'  65  0  /etc/ssh/sshd_config
-|4,39,65,0,1741185816,"/etc/ssh/sshd_config"
--'  65  0  /etc/ssh/sshd_config
-|4,39,65,0,1741185816,"/etc/ssh/sshd_config"
--'  65  1  /etc/ssh/sshd_config
-|4,39,65,1,1741185808,"/etc/ssh/sshd_config"
--'  66  1  /etc/ssh/sshd_config
-|4,39,66,1,1741185808,"/etc/ssh/sshd_config"
--'  65  1  /etc/ssh/sshd_config
-|4,39,65,1,1741185808,"/etc/ssh/sshd_config"
--'  66  1  /etc/ssh/sshd_config
-|4,39,66,1,1741185808,"/etc/ssh/sshd_config"
--'  65  1  /etc/ssh/sshd_config
-|4,39,65,1,1741185808,"/etc/ssh/sshd_config"
--'  66  1  /etc/ssh/sshd_config
-|4,39,66,1,1741185808,"/etc/ssh/sshd_config"
--'  65  1  /etc/ssh/sshd_config
-|4,39,65,1,1741185808,"/etc/ssh/sshd_config"
--'  66  1  /etc/ssh/sshd_config
-|4,39,66,1,1741185808,"/etc/ssh/sshd_config"
--'  65  1  /etc/ssh/sshd_config
-|4,39,65,1,1741185808,"/etc/ssh/sshd_config"
--'  66  1  /etc/ssh/sshd_config
-|4,39,66,1,1741185808,"/etc/ssh/sshd_config"
--'  65  1  /etc/ssh/sshd_config
-|4,39,65,1,1741185808,"/etc/ssh/sshd_config"
--'  66  1  /etc/ssh/sshd_config
-|4,39,66,1,1741185808,"/etc/ssh/sshd_config"
--'  65  1  /etc/ssh/sshd_config
-|4,39,65,1,1741185808,"/etc/ssh/sshd_config"
--'  66  1  /etc/ssh/sshd_config
-|4,39,66,1,1741185808,"/etc/ssh/sshd_config"
--'  65  1  /etc/ssh/sshd_config
-|4,39,65,1,1741185808,"/etc/ssh/sshd_config"
--'  66  1  /etc/ssh/sshd_config
-|4,39,66,1,1741185808,"/etc/ssh/sshd_config"
--'  44  15  /etc/ssh/sshd_config
-|4,39,44,15,1741185806,"/etc/ssh/sshd_config"
--'  44  15  /etc/ssh/sshd_config
-|4,39,44,15,1741185806,"/etc/ssh/sshd_config"
--'  44  15  /etc/ssh/sshd_config
-|4,39,44,15,1741185806,"/etc/ssh/sshd_config"
--'  44  15  /etc/ssh/sshd_config
-|4,39,44,15,1741185806,"/etc/ssh/sshd_config"
--'  44  15  /etc/ssh/sshd_config
-|4,39,44,15,1741185806,"/etc/ssh/sshd_config"
--'  44  15  /etc/ssh/sshd_config
-|4,39,44,15,1741185806,"/etc/ssh/sshd_config"
--'  44  15  /etc/ssh/sshd_config
-|4,39,44,15,1741185806,"/etc/ssh/sshd_config"
--'  44  15  /etc/ssh/sshd_config
-|4,39,44,15,1741185806,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1741185767,"/etc/ssh/sshd_config"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
--'  1  404  ~/public
-|4,39,1,404,1741182468,"~/public"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1741186446,"/etc/ssh/sshd_config"
 
 # History of marks within files (newest to oldest):
+
+> ~/.ssh/id_rsa.pub
+	*	1741238568	0
+	"	1	0
+
+> ~/.ssh/id_rsa
+	*	1741238538	0
+	"	38	0
 
 > ~/lb.tf
 	*	1741187958	0
@@ -553,20 +561,3 @@
 > ~/wordpress.ynl
 	*	1741008997	0
 	"	1	0
-
-> ~/network.tf
-	*	1741006459	0
-	"	17	61
-	^	17	62
-	.	17	61
-	+	22	0
-	+	1	39
-	+	7	0
-	+	17	61
-
-> ~/variables.tf
-	*	1741006192	0
-	"	14	0
-	^	14	1
-	.	14	0
-	+	14	0
