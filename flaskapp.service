@@ -1,0 +1,12 @@
+[Unit]
+Description=Flask Application
+After=network.target
+
+[Service]
+User=debian
+WorkingDirectory=/home/debian/app1.py
+ExecStart=/usr/bin/python3 /home/debian/app1.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
