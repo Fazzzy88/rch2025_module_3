@@ -5,9 +5,7 @@ import logging.handlers
 
 app = Flask(__name__)
 
-# Настройка логгера для отправки логов в syslog
-syslog_handler = logging.handlers.SysLogHandler(address='/dev/log')  # Для Linux
-# Если вы используете macOS, замените '/dev/log' на '/var/run/syslog'
+syslog_handler = logging.handlers.SysLogHandler(address=('localhost', 514))
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
 syslog_handler.setFormatter(formatter)
 
