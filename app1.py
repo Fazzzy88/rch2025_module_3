@@ -5,7 +5,7 @@ import logging.handlers
 
 app = Flask(__name__)
 
-syslog_handler = logging.handlers.SysLogHandler(address=('localhost', 514))
+syslog_handler = logging.handlers.SysLogHandler(address=('217.16.21.4', 514))
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
 syslog_handler.setFormatter(formatter)
 
